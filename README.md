@@ -44,6 +44,6 @@
 
       pip install pandas matplotlib 
 
-  <h3>Execute o Script com python</h3>
+  <h3>2. Execute o Script com python</h3>
 
       python main.py
